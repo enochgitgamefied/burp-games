@@ -1,0 +1,15 @@
+PASS: runner physics, ramps, checkpoints, mission scoring, all 4 levels, progress, Games tab/unload.
+Renderer benchmark: 12.4 ms/frame at 1200x800 (1100px render buffer)
+PASS: depth ordering, near-plane clipping, animated rig rendering.
+PASS: Asteroids combat/waves, Breakout collisions/levels, library switching and cleanup, screenshots.
+PASS: fast running, boost, all vehicle pickups, remembered quiz choice, four free-run levels, fixed-facing movement, enemy combat.
+PASS: audio PCM, mute/resume, device failure, four-game switching and cleanup.
+PASS: texture orientation, alpha and clipping.
+PASS: real process restart restores no-quiz, mute, kart roster, mode, circuit unlocks and race records; forgetting clears it; isolated test settings removed.
+PASS: five closed circuits, fixed-step timing, pause, independent players, boost, drift, swept coins, pads, collisions, full races and progression.
+Native kart 1P at 1280x750: median 21.17 ms, p95 24.51 ms (90 frames)
+Native kart 2P at 1280x850: median 22.05 ms, p95 26.68 ms (90 frames)
+PASS: native portraits, all themes, deterministic frames, key controls, pause, mute, split-screen, results and lifecycle.
+Built dist/burp-games.jar
+PASS: packaged native JAR, driver/start buttons, real timer (countdown wait 2.73s), input, mute sync, focus, tab hide/reopen, unload and reload.
+PASS: packaged native JAR, driver/start buttons, real timer (countdown wait 2.69s), input, mute sync, focus, tab hide/reopen, unload and reload.

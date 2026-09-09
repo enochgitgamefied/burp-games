@@ -1,0 +1,26 @@
+{
+  "version": "6.0.0",
+  "built_at_utc": "2026-09-09T22:26:54.781891+00:00",
+  "jar": "burp-games.jar",
+  "bytes": 138990,
+  "sha256": "f32cf97b4e96e290c9ada6448b564650141346bf6bdec9249715ca47a06f8479",
+  "java_release": 17,
+  "compile_only_dependency": "PortSwigger Montoya API 2026.7",
+  "engine": "Native Java/Swing; original Sonic Renderer3D and HedgehogRig",
+  "kart_roster": [
+    "Sonic",
+    "Tails",
+    "Knuckles",
+    "Amy"
+  ],
+  "circuits": 5,
+  "games": [
+    "Sonic 3D",
+    "Asteroids",
+    "Breakout",
+    "Turbo Tails"
+  ],
+  "validation": "Full suite + packaged desktop integration, ordinary and reduced-module JVMs",
+  "tested_platform": "macOS arm64 / Temurin 17.0.19+10",
+  "native_runtime_bundled": false
+}
