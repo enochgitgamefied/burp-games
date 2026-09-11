@@ -73,3 +73,15 @@ The scripts use POSIX shell syntax and colon-separated Java classpaths (macOS/Li
 The software renderer uses a depth buffer and clipping, fixed object locations, thick 3D coins and cached camera transforms. Race rendering is capped at 900 pixels wide for solo and 800 per split-screen viewport, then scaled to the panel; menus and HUD use the full panel resolution. Opponent meshes use less detail with distance. Hidden games stop their timers, and unloading releases timers and audio resources.
 
 This is a compact native arcade racer using the existing Sonic art style. See `dist/validation.txt` and `dist/performance-report.md` for measured checks and test scope. See `THIRD-PARTY-ASSETS.md` and `LICENSE` for source/asset information.
+
+<img width="1512" height="950" alt="Screenshot 2026-09-11 at 12 50 21 PM" src="https://github.com/user-attachments/assets/1629c75a-2b29-4c2f-aeab-5991a8f74414" />
+<img width="1512" height="919" alt="Screenshot 2026-09-11 at 12 50 30 PM" src="https://github.com/user-attachments/assets/70df1117-17a3-48a2-9dd5-d1b814fccc4e" />
+
+<img width="1512" height="953" alt="Screenshot 2026-09-11 at 12 50 45 PM" src="https://github.com/user-attachments/assets/0b1cc17b-f2f3-4a8b-9483-eed13837c53c" />
+
+<img width="1512" height="950" alt="Screenshot 2026-09-11 at 12 50 56 PM" src="https://github.com/user-attachments/assets/c387d0aa-4e0b-4c1e-a978-2895a21f420d" />
+
+
+
+
+
